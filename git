@@ -1,4 +1,0 @@
-git clone https://github.com/Dampestcrowd/Off-Campus.git
-git remote add origin https://github.com/Dampestcrowd/Off-Campus.git
-git branch -M main
-git push -u origin main
