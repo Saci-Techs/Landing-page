@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 80px;
+  background-color: black;
+}
+
+.nav {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+.ul {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.welcome_title {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+
+#início {
+  display: flex;
+  margin-top: 80px;
+}
