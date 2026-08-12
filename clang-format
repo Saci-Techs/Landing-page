@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+ColumnLimit: 180
+BraceWrapping:
+  AfterFunction: false
+  AfterClass: false
+  AfterStruct: false
+  AfterEnum: false
+  AfterControlStatement: false
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation
